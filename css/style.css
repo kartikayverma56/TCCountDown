@@ -68,6 +68,7 @@ h2 {
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
 	color:#fff;
+	font-family:'dragon',sans-serif;
 }
 
 #countdown div span {
@@ -1041,4 +1042,5 @@ h2 {
 #countdown {
     color: #fff;
     letter-spacing: 5px; 
+	font-family:'dragon',sans-serif;
 }
