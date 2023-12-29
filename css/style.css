@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'dragon'; /* Font family name */
-    src: url(./Dragonlord-WyJZn.otf) format('opentype'); /* Adjust the path accordingly */
+    src: url(../Dragonlord-WyJZn.otf) format('opentype'); /* Adjust the path accordingly */
     font-weight: normal;
     font-style: normal;
 }
